@@ -1,6 +1,6 @@
 ### Welcome to my GitHub profile! 👋
 
-🎓 I'm a student at Tilburg University and I am eager to work on exciting projects that blend my academic endeavors with my coding enthusiasm.
+🎓 I'm a MSc Economics student at Tilburg University and I am eager to work on exciting projects that blend my academic endeavors with my coding enthusiasm.
 
 💻 I possess intermediate skills in R and enjoy using this language for tasks ranging from data analysis and visualization to econometrics.
 
