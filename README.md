@@ -1,11 +1,11 @@
-### Welcome to my GitHub profile! 👋
+#### Welcome to my GitHub profile! 👋
 
-🎓 I'm a MSc Economics student at Tilburg University and I am eager to work on exciting projects that blend my academic endeavors with my coding enthusiasm.
+🎓 I'm an MSc Data Science student at Tilburg University. Although I've always been passionate and graduated in Economics, I've recently discovered the exciting opportunities that coding offers.
 
-💻 I possess intermediate skills in R and enjoy using this language for tasks ranging from data analysis and visualization to econometrics.
+💡 My interests have led me to artificial intelligence and its applications inside the university. Through my work with (tilburg.ai)[tilburg.ai], I contribute to developing AI tools and writing articles aimed at guiding students in the responsible use of AI.
 
-🤝 I'm enthusiastic about collaborating with fellow developers and students, so don't hesitate to reach out if you're interested in working together on a project or simply having a chat!
+💻 With a background in Economics, I have developed proficiency in R, which I enjoy using for data analysis, visualization, and econometric modeling. I have used this for an open Science platform: (Tilburg Science Hub)[https://tilburgsciencehub.com]
 
-🚀 Feel free to explore my repositories to see the projects I'm currently working on, and don't hesitate to provide feedback or suggestions!
+🚀 Feel free to explore my repositories to see the projects I'm currently working on. Your feedback and suggestions are always welcome!
 
 📫 How to reach me: m.a.n.tentije@tilburguniversity.edu
